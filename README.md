@@ -5,7 +5,7 @@ This project demonstrates an end-to-end ETL pipeline using PySpark and Delta Lak
 
 ## Architecture
 (Bronze → Silver → Gold)
-# EX
+##### EX 
 Bronze: (Data ingestion: transactions.csv, customers.csv , ...)
 Silver: (Transformation: null handling, type casting, joins, ... & Data Validation: row count check, null check, duplicate check, ...) 
 Gold: (Buisiness Ready:aggregated transactions, customer summary, ...)
