@@ -11,8 +11,8 @@ Silver: (Transformation: null handling, type casting, joins, ... & Data Validati
 Gold: (Buisiness Ready:aggregated transactions, customer summary, ...)
 
 ## Tech Stack
-- PySpark
-- Delta Lake
+- PySpark(Databricks style)
+- Azure Delta Lake
 - SQL
 
 ## Data Flow
